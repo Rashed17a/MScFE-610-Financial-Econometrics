@@ -9,7 +9,7 @@ This folder contains all materials for **Group Work Project 2 (GWP2)** of the MS
 |------|-------------|
 | `FE_GWP2_Final.ipynb` | Google Colab notebook with technical implementation |
 | `MScFE610_Financial_Econometrics_GWP2_Report.pdf` | Written report |
-| `MScFE610_Financial_Econometrics_GWP2_Guideline.pdf` | Project guideline/brief |
+| `MScFE_610_Financial_Econometrics Set A GWP2.pdf` | Project guideline/brief |
 
 ## Topic
 **Time-Series Analysis & Forecasting** — Applies time-series econometric models to financial data including ARMA/ARIMA models, stationarity testing, and forecasting.
