@@ -18,17 +18,17 @@ MScFE-610-Financial-Econometrics/
 ├── Project_1/
 │   ├── FE_GWP1.ipynb                              # Technical code (Google Colab notebook)
 │   ├── MScFE610_Financial_Econometrics_GWP1_Report.pdf    # Written report
-│   └── MScFE610_Financial_Econometrics_GWP1_Guideline.pdf # Project guideline
+│   └── MScFE_610_Financial_Econometrics Set A GWP1.pdf.pdf # Project guideline
 │
 ├── Project_2/
 │   ├── FE_GWP2_Final.ipynb                        # Technical code (Google Colab notebook)
 │   ├── MScFE610_Financial_Econometrics_GWP2_Report.pdf    # Written report
-│   └── MScFE610_Financial_Econometrics_GWP2_Guideline.pdf # Project guideline
+│   └── MScFE_610_Financial_Econometrics Set A GWP2.pdf # Project guideline
 │
 ├── Project_3/
 │   ├── FE_GWP3.ipynb                              # Technical code (Google Colab notebook)
 │   ├── MScFE610_Financial_Econometrics_GWP3_Report.pdf    # Written report
-│   └── MScFE610_Financial_Econometrics_GWP3_Guideline.pdf # Project guideline
+│   └── MScFE_610_Financial_Econometrics Set A GWP3.pdf # Project guideline
 │
 └── README.md
 ```
