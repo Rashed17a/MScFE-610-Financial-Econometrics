@@ -9,7 +9,7 @@ This folder contains all materials for **Group Work Project 1 (GWP1)** of the MS
 |------|-------------|
 | `FE_GWP1.ipynb` | Google Colab notebook with technical implementation |
 | `MScFE610_Financial_Econometrics_GWP1_Report.pdf` | Written report |
-| `MScFE610_Financial_Econometrics_GWP1_Guideline.pdf` | Project guideline/brief |
+| `MScFE_610_Financial_Econometrics Set A GWP1.pdf` | Project guideline/brief |
 
 ## Topic
 **Econometric Foundations & Linear Regression** — Covers the foundations of financial econometrics including OLS regression, hypothesis testing, and model diagnostics applied to financial datasets.
