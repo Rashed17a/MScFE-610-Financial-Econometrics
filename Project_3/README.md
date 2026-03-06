@@ -9,7 +9,7 @@ This folder contains all materials for **Group Work Project 3 (GWP3)** of the MS
 |------|-------------|
 | `FE_GWP3.ipynb` | Google Colab notebook with technical implementation |
 | `MScFE610_Financial_Econometrics_GWP3_Report.pdf` | Written report |
-| `MScFE610_Financial_Econometrics_GWP3_Guideline.pdf` | Project guideline/brief |
+| `MScFE_610_Financial_Econometrics Set A GWP3.pdf` | Project guideline/brief |
 
 ## Topic
 **Volatility Modelling & Advanced Econometrics** — Implements volatility modelling techniques and advanced econometric methods used in financial risk analysis.
